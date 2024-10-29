@@ -1,0 +1,9 @@
+.stButton > button{
+    background-color: rgb(159, 95, 202);
+    color: #fff;
+}
+.stButton > button:hover{
+    background-color: rgba(159, 95, 202, 0.644);
+    color: #fff;
+    border-color:blueviolet;
+}
